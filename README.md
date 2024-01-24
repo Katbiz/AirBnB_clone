@@ -12,8 +12,12 @@
 - [Collaborate](#collaborate)
 
 ## Author Details
+<<<<<<< HEAD
 1. *Katleho Ramothamo - ramothamok77@gmail.com*
 2. *Emmanuella - nanaessilfua18@gmail.com
+=======
+1. *Wendy Munyasi - wendymunyasi@gmail.com*
+>>>>>>> fee7329a83eaa2bc05db4d7cdf64088251c7fa2f
 
 ##  Requirements
 *   Allowed editors: `vi`, `vim`, `emacs`.
